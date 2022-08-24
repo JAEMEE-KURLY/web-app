@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h3> 품목 관리 화면 </h3>
+    <h3> 사이트 관리 화면 </h3>
     <div v-if="message" class="alert alert-success">
       {{ this.message }}</div>
         <div class="row">
